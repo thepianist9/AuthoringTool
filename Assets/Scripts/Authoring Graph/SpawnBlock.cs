@@ -43,7 +43,7 @@ namespace AuthoringTool.Blocks
                 spawnedObject.transform.position = position;
                 spawnedObject.transform.rotation = Quaternion.Euler(rotation);
                 spawnedObject.transform.localScale = scale;
-                spawnedObject.tag = "GraphObject"; // Tag for cleanup
+                spawnedObject.tag = "EditorOnly"; // Tag for cleanup
                 blockData.CurrentGameObject = spawnedObject;
             }
                 

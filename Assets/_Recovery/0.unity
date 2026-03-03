@@ -148,9 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 48a5bca6aef5b0c409e63b507f2d110c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AuthoringTool.Graphs.GraphRunner
-  graphStatus: "Blocks: 5\nEntry: 1\n[1] SpawnBlock \u2192 2\n[2] RotateBlock \u2192
-    3\n[3] ValueBlock \u2192 4\n[4] CompareBlock \u2192 0\n[5] SpawnBlock \u2192
-    -1"
+  graphStatus: 
 --- !u!4 &481201809
 Transform:
   m_ObjectHideFlags: 0

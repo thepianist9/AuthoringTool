@@ -53,8 +53,8 @@ namespace AuthoringTool.Graphs
         [ContextMenu("Clear Scene")]
         public void ClearScene()
         {
-            // Find and destroy all objects tagged as "GraphObject"
-            GameObject[] graphObjects = GameObject.FindGameObjectsWithTag("GraphObject");
+            // Find and destroy all objects tagged as "EditorOnly"
+            GameObject[] graphObjects = GameObject.FindGameObjectsWithTag("EditorOnly");
             foreach (GameObject obj in graphObjects)
             {
                 DestroyImmediate(obj);
