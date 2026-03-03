@@ -2,6 +2,9 @@
 
 A visual graph-based scripting system for Unity that allows you to create complex object behaviors through node-based workflows. Execute sequences of blocks to spawn, transform, and manipulate 3D objects dynamically.
 
+## Requirements
+- Unity Version: 6000.3.2f1
+
 # Quick Start
 
 ### 1. Setup
