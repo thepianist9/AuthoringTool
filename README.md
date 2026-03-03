@@ -1,4 +1,4 @@
-# Authoring Graph System
+# Editor Authoring Graph System
 
 A visual graph-based scripting system for Unity that allows you to create complex object behaviors through node-based workflows. Execute sequences of blocks to spawn, transform, and manipulate 3D objects dynamically.
 
